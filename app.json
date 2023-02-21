@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a4f7524-ae0d-4a0a-b39e-1c3a3de41ee2"
+      }
+    },
+    "owner": "healan"
   }
 }
